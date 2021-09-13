@@ -1,4 +1,4 @@
 # elf-inject
 
-`sudo apt-get install -y libelf-dev`
+```sudo apt-get install -y libelf-dev```
 
